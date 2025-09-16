@@ -1,6 +1,6 @@
 # J-PRAT (Jharkhand - Provenance Recognition & Authentication)
 
-![SIH 2025](https://img.shields.io/badge/Smart%20India%20Hackathon-2025-orange) ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg) ![React](https://img.shields.io/badge/React-18-blue.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![SIH 2025](https://img.shields.io/badge/Smart%20India%20Hackathon-2025-orange) ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg) ![React](https://img.shields.io/badge/React-18-blue.svg)
 
 **Team:** Victus
 **Problem Statement:** Fake Degree/Certificate Recognition System for the state of Jharkhand.
