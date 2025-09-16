@@ -60,7 +60,7 @@ Our system follows a refined 10-step process for maximum accuracy and efficiency
 | **Backend** | FastAPI (Python 3.9+) |
 | **AI / Machine Learning**| PyTorch / TensorFlow, Siamese Networks, OpenCV, scikit-image, EasyOCR |
 | **Cloud OCR Services** | AWS Textract, Google Cloud Vision API |
-| **Database** | PostgreSQL, SQLAlchemy |
+| **Database** | PostgreSQL, Prisma |
 | **Blockchain** | Hyperledger Fabric, Web3.py |
 | **Cloud & DevOps** | AWS S3, Docker |
 
